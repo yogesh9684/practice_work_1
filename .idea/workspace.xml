@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b096d433-8d8c-41a6-a114-de7a1199d8e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yPJam4mpbO5OrZGt7ixjICVfUq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv/lib" />
+      <recent name="$PROJECT_DIR$/venv/bin" />
+      <recent name="$PROJECT_DIR$/Rivision" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ReverseString">
+    <configuration name="Largest Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JustForRevision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rivision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rivision/Largest Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JustForRevision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rivision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rivision/Palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QASite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JustForRevision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rivision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rivision/QASite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JustForRevision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rivision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rivision/ReverseString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Switch_to_Alert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JustForRevision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rivision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rivision/Switch_to_Alert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.Palindrome" />
+        <item itemvalue="Python.Largest Number" />
+        <item itemvalue="Python.QASite" />
+        <item itemvalue="Python.Switch_to_Alert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b096d433-8d8c-41a6-a114-de7a1199d8e0" name="Default Changelist" comment="" />
+      <created>1632147355061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632147355061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="251" key="GridCell.Tab.0.bottom" timestamp="1636182371520">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1636182371520" />
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1633932081617" />
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1632806675758" />
+    <state width="1419" height="251" key="GridCell.Tab.0.center" timestamp="1636182371519">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1636182371519" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1633932081616" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1632806675757" />
+    <state width="1419" height="251" key="GridCell.Tab.0.left" timestamp="1636182371518">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1636182371518" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1633932081616" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1632806675756" />
+    <state width="1419" height="251" key="GridCell.Tab.0.right" timestamp="1636182371520">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1636182371520" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1633932081617" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1632806675758" />
+    <state width="1419" height="251" key="GridCell.Tab.1.bottom" timestamp="1636182371521">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1636182371521" />
+    <state width="1419" height="254" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1633673511152" />
+    <state width="1419" height="254" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1632150238108" />
+    <state width="1419" height="251" key="GridCell.Tab.1.center" timestamp="1636182371521">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1636182371521" />
+    <state width="1419" height="254" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1633673511151" />
+    <state width="1419" height="254" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1632150238106" />
+    <state width="1419" height="251" key="GridCell.Tab.1.left" timestamp="1636182371520">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1636182371520" />
+    <state width="1419" height="254" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1633673511151" />
+    <state width="1419" height="254" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1632150238106" />
+    <state width="1419" height="251" key="GridCell.Tab.1.right" timestamp="1636182371521">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1419" height="251" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1636182371521" />
+    <state width="1419" height="254" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1633673511152" />
+    <state width="1419" height="254" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1632150238107" />
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1633932020168">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1633932020168" />
+    <state x="385" y="140" width="670" height="676" key="search.everywhere.popup" timestamp="1634487873481">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="385" y="140" width="670" height="676" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1634487873481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
